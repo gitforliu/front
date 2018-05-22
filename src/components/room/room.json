@@ -1,0 +1,21 @@
+{
+    "error": 0,
+    "message": "获取成功！",
+    "data": {
+        "userpara": {
+            "uid":1526892821629,
+            "icon":"http://static.1234tv.com/resources/images/room/headphoto/10.png",
+            "nickname_b64":"dGVzdDk5",
+            "role":100,
+            "line_stat":0,
+            "levelinroom":100,
+            "title":0
+        },
+        "roompara": {
+            
+        },
+        "room_info":{
+
+        },
+    },
+}

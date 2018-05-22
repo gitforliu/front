@@ -1,0 +1,33 @@
+<template>
+	<div class="room">
+		123
+		<br>
+		 {{ this.$store.state.count }}
+		 <br>
+		 {{this.$store.getters.show }}
+		 <br>
+		 <button @click='addit()' class="layui-btn">点击</button>
+	</div>
+</template>
+
+<script type="text/javascript">
+	import store from '../../vuex/store.js'
+
+	export default {
+		data(){
+			return {
+
+			}
+		},
+		store,
+		methods:{
+			addit(){
+				this.$store.commit('add')
+			}
+		}
+	}
+</script>
+
+<style type="text/css">
+	.room { padding-top: 80px; }
+</style>

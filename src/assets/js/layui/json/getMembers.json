@@ -1,0 +1,18 @@
+{
+  "code": 0
+  ,"msg": ""
+  ,"data": {
+    "owner": {
+      "username": "贤心"
+      ,"id": "100001"
+      ,"avatar": "/resources/assets/org/layui/images/face/2.png"
+      ,"sign": "这些都是测试数据，实际使用请严格按照该格式返回"
+    }
+    ,"list": [{
+      "username": "Z_子晴"
+      ,"id": "108101"
+      ,"avatar": "/resources/assets/org/layui/images/face/2.png"
+      ,"sign": "微电商达人"
+    }]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "code": 0
+  ,"msg": ""
+  ,"data": {
+    "mine": {
+      "username": "纸飞机"
+      ,"id": "100000"
+      ,"status": "online"
+      ,"sign": "在深邃的编码世界，做一枚轻盈的纸飞机"
+      ,"avatar": "http://static.1234tv.com/resources/images/room/headphoto/2.png"
+    }
+    ,"friend": [{
+      "groupname": "用户列表"
+      ,"id": 1
+      ,"online": 2
+      ,"list": []
+    },{
+      "groupname": "麦序列表"
+      ,"id": 2
+      ,"online": 3
+      ,"list": []
+    },{
+    "groupname": "分配列表"
+      ,"id": 3
+      ,"online": 4
+      ,"list": []
+    },{
+    "groupname": "虚拟列表"
+      ,"id": 4
+      ,"online": 5
+      ,"list": []
+    }]
+    ,"group": [{
+      "groupname": "前端群"
+      ,"id": "101"
+      ,"avatar": "http://static.1234tv.com/resources/images/room/headphoto/2.png"
+    },{
+      "groupname": "Fly社区官方群"
+      ,"id": "102"
+      ,"avatar": "http://static.1234tv.com/resources/images/room/headphoto/2.png"
+    }]
+  }
+}
